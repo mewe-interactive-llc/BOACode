@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ModularGameplayActors.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\UnrealProjects\ValleyoftheAncient\Intermediate\Build\Win64\AncientGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\UnrealProjects\ValleyoftheAncient\Plugins\Systems\ModularGameplayActors\Intermediate\Build\Win64\UnrealEditor\Development\ModularGameplayActors\Module.ModularGameplayActors.cpp.obj"
+"F:\UnrealProjects\ValleyoftheAncient\Plugins\Systems\ModularGameplayActors\Intermediate\Build\Win64\UnrealEditor\Development\ModularGameplayActors\Module.ModularGameplayActors.gen.cpp.obj"
+"F:\UnrealProjects\ValleyoftheAncient\Plugins\Systems\ModularGameplayActors\Intermediate\Build\Win64\UnrealEditor\Development\ModularGameplayActors\Default.rc2.res"
+/OUT:"F:\UnrealProjects\ValleyoftheAncient\Plugins\Systems\ModularGameplayActors\Intermediate\Build\Win64\UnrealEditor\Development\ModularGameplayActors\UnrealEditor-ModularGameplayActors.lib"
+/INCLUDE:IMPLEMENT_MODULE_ModularGameplayActors
